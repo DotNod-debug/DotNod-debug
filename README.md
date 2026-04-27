@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Adesh 👋<br>Learning something new everyday<br>Exploring C++, Python, and AI<br>
+Hi, I'm Adesh 👋<br>Learning something new everyday<br>Exploring C++, Python, AI and Machine Learning<br>
 
 
 ## 🌐 Socials:
